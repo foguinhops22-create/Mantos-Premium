@@ -1,0 +1,8 @@
+MANTOS PREMIUM V4
+
+- Adicionados novos clubes e suas camisas: Nacional, Napoli, Olympique de Marseille, Peñarol, Porto, Racing, River Plate, Sport Recife, Tottenham e West Ham.
+- Novos clubes adicionados às categorias corretas e listas mantidas em ordem alfabética.
+- Todas as camisas de clubes e seleções reorganizadas por ano, da mais recente para a mais antiga.
+- Holanda atualizada na página de Seleções para usar a bandeira dos Países Baixos.
+- Corrigidos textos da página da Holanda que ainda citavam Brasil.
+- Novas imagens convertidas e otimizadas em WebP.

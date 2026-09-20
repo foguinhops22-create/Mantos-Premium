@@ -1,0 +1,8 @@
+MANTOS PREMIUM V3
+
+1. Categoria Outros Clubes posicionada entre Clubes Europeus e Seleções no menu e na página inicial.
+2. Bahia recebeu o escudo correto enviado pelo cliente.
+3. Escudos adicionados aos clubes novos: Ajax, Bayer Leverkusen, Benfica, Real Betis, Boca Juniors, Al-Hilal e Al-Nassr.
+4. Todas as camisas presentes nas pastas dos clubes novos foram integradas, com frente e verso e variantes Modelo 2/3 quando existentes.
+5. Novas imagens foram otimizadas em WebP.
+6. Páginas dos clubes novos atualizadas para mostrar todas as camisas disponíveis.

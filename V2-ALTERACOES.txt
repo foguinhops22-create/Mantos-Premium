@@ -1,0 +1,6 @@
+Mantos Premium V2
+- Removida a página Infantis e modelos infantis.
+- Criada a página Outros Clubes.
+- Integradas novas camisas de Bahia, Ajax, Bayer Leverkusen, Benfica, Real Betis, Argentina, Alemanha, Al-Hilal, Al-Nassr e Boca Juniors.
+- Novas imagens convertidas para WebP otimizado (máx. 1600px, qualidade 82).
+- Mantida a navegação sem preços.

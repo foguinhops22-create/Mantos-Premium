@@ -1,0 +1,7 @@
+Atualização V3
+Liverpool: 3 produtos, 6 imagens
+PSG: 7 produtos, 14 imagens
+Manchester United: 9 produtos, 18 imagens
+Manchester City: 7 produtos, 14 imagens
+Real Madrid: 7 produtos, 14 imagens
+Bragantino: escudo substituído pela imagem fornecida pelo usuário.

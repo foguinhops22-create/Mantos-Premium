@@ -1,0 +1,9 @@
+Mantos Premium V1
+- Camisas brasileiras organizadas por clube a partir da pasta images.
+- Frente e verso do mesmo modelo agrupados no mesmo produto.
+- Títulos: Camisa Torcedor AAAA / Camisa Retro AAAA / Camisa Jogador AAAA.
+- Preços: Torcedor R$ 129, Retro R$ 220, Jogador R$ 260.
+- Botão: Comprar Pelo WhatsApp.
+- Mensagem: Olá, estou interessado em uma camisa.
+- Removida a escolha de tamanho/modelo.
+- Removidas páginas separadas de Retrôs e Player Version.

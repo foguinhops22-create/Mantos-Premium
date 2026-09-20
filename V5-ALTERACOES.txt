@@ -1,0 +1,6 @@
+V5
+1. Corrigidos os escudos de Gana e Holanda na página de Seleções.
+2. Removidos todos os cards de produtos que usavam o placeholder "no-image", deixando somente modelos com imagem real.
+3. Clubes e seleções organizados em ordem alfabética dentro de cada categoria.
+4. Categoria Lançamentos configurada para usar a logo local da Mantos Premium.
+5. Cache-bust do CSS atualizado para v8.
